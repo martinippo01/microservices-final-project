@@ -1,0 +1,9 @@
+[submodule "taskmanager2000-cluster-config"]
+	path = taskmanager2000-cluster-config
+	url = git@github.com:martinippo01/taskmanager2000-cluster-config.git
+[submodule "taskmanager2000-agents"]
+	path = taskmanager2000-agents
+	url = git@github.com:martinippo01/taskmanager2000-agents.git
+[submodule "taskmanager2000"]
+	path = taskmanager2000
+	url = git@github.com:martinippo01/taskmanager2000.git
